@@ -1,1 +1,3 @@
  am adding some tt here
+ adding chnages from home chnages:wq
+ git statu
